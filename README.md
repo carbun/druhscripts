@@ -1,6 +1,6 @@
 druhscripts
 ===========
 
-Script with Drush
+Script with Drush. Make to easy repetitive task.
 
-Estructura básica de trabajo con Drupal versión 7,x con los módulos respectivos
+Scripts con Drush para facilitar las tareas repetitivas.
